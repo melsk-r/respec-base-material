@@ -6,7 +6,7 @@ var organisationConfig = {
     // bv styles url voor ander GN publicatiedomein met eigen stijlen zoals DSO of BRO:
     // nl_organisationStylesURL: "https://tools.geostandaarden.nl/respec/dso/style/",
     // nl_organisationStylesURL: "https://tools.geostandaarden.nl/respec/bro/style/",
-    nl_organisationPublishURL: "https://melsk-r.github.io/",
+    nl_organisationPublishURL: "https://docs.geostandaarden.nl/",
     logos: [{
         src: "https://tools.geostandaarden.nl/respec/style/logos/Geonovum.svg",
         alt: "Geonovum",
